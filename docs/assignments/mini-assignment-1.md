@@ -4,6 +4,8 @@ title: "Mini Assignment 1"
 
 # Mini Assignment 1
 
+## Instructions
+
 - Draw a face with code/ draw a face by hand/ generate a face (optional)
 
 - (Optional) Set up your [P5.js](http://p5.js) programming environment either using the [web editor](https://p5js.org/tutorials/setting-up-your-environment/) or [VSCode](https://p5js.org/tutorials/setting-up-your-environment/#vscode) (recommended).

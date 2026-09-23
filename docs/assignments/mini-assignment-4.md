@@ -4,6 +4,8 @@ title: "Mini Assignment 4"
 
 # Mini Assignment 4
 
+## Instructions
+
 - Create a simple [P5.js](http://p5.js/) data visualization
 
 - Review the examples in this week's example folder on [Github](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/data) and do one of the following

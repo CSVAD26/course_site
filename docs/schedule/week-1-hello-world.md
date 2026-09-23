@@ -4,9 +4,7 @@ title: "Week 1: Hello World"
 
 # Week 1: Hello World
 
-Week 1: Hello World
-
-Monday, September 29th Overview
+## Tuesday, September 29th Overview
 
 - Class Introduction:
 
@@ -18,7 +16,7 @@ Monday, September 29th Overview
 - Introduction to [p5.js](http://p5.js) and [Git](https://git-scm.com/)/[Github](https://github.com/about)
 - Introduce [mini assignment](/assignments/mini-assignment-1)and [first project](/assignments/project-1)
 
-To Do before Wednesday's Class:
+### To Do before Thursday's Class:
 
 - Fill out the [course registration survey](https://docs.google.com/forms/d/e/1FAIpQLScTOaBARO1RS0vcPSUUjJZByY7MLBVJTjAgcWZQ7t13hxwvrA/viewform?usp=dialog)
 - Reading and Reflection
@@ -27,7 +25,7 @@ To Do before Wednesday's Class:
 - Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/1Y57RS7V_8m6ZNdPgN4Fp8PbN-Fvsl7ySWWtqPaWD268/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0) and add your response
 - Complete [Mini Assignment 1](/assignments/mini-assignment-1)- consider using colors generated with Color Builder in your assignment
 
-Wednesday, October 1st Overview
+## Thursday, October 1st Overview
 
 - Reading Discussion- Leader Jennifer
 
@@ -80,7 +78,7 @@ Created by MPC New York in collaboration with artist Thompson Harrell, ‘The Co
 
 Ghita Jalal, Nolwenn Maudet and Wendy E. Mackay's Color Portraits (2015) [CHI paper on ACM Digital Library](https://doi.org/10.1145/2702123.2702173)[Video Demonstration on Vimeo](https://vimeo.com/217826074)
 
-To Do before Monday's Class:
+### To Do before Tuesday's Class:
 
 - Upload first assignment to github if not yet completed
 - Sign up for a [reading reflection leader slot](https://docs.google.com/spreadsheets/d/14mRWJATAd0q7vQLdPNhKXwmVRJTFubJc6-RG4jkN3gY/edit?gid=1689190312#gid=1689190312). See the reading list on the [schedule page](/schedule)

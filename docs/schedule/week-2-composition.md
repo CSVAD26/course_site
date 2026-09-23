@@ -4,9 +4,7 @@ title: "Week 2: Composition"
 
 # Week 2: Composition
 
-Week 2: Composition
-
-Monday, October 6th Overview
+## Tuesday, October 6th Overview
 
 - Review Mini Assignment 2 / questions from the previous week
 - Reading Reflection check in
@@ -18,7 +16,7 @@ Monday, October 6th Overview
 
 Grids: repeating structures of form and spacing provide a means to organize a design and partition space. Grids can establish rhythm and create a sense of flow; however, they can also be shifted, manipulated, and broken to create interest, focus, and surprise.
 
-Examples:
+### Examples:
 
 - - [Bridget Riley:](https://www.tate.org.uk/art/artists/bridget-riley-1845) English Painter who is one of the most prominent creators of[OpArt.](https://magazine.artland.com/art-movement-op-art/) Riley's paintings use repetition and contrast to create subtle effects on the eyes of the viewer [[Reas et al.](http://formandcode.com/contents)]
 - [Vera Molnar:](http://www.artnet.com/artists/vera-molnar/?type=works-on-paper) Hungarian artist who created intricate plotter-based artwork. One of the first artists to use a plotter.
@@ -42,7 +40,7 @@ Examples:
 
 See this [video](https://www.youtube.com/watch?v=-eL-7T6tfcE)of the execution of LeWitt's Wall Drawing #29.
 
-To Do before Wednesday's Class:
+### To Do before Thursday's Class:
 
 - Reading and Reflection
 
@@ -50,7 +48,7 @@ To Do before Wednesday's Class:
 - Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/10lnVKF1ueIopTiyXIFm0WSoCy0xZLqOEEKotNBFwbQ4/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0) and add your response
 - Experiment with sample code in[layout examples](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5)
 
-Wednesday, October 8th Overview
+## Thursday, October 8th Overview
 
 - - Reading discussion- leaders Jintong and Jon
 - Questions on examples from Monday's class
@@ -77,11 +75,11 @@ Wednesday, October 8th Overview
 - [Video Point Tracking Example](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5/cv_examples/PointTracking)
 - Voronoi/ [Point](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5/cv_examples/PointTracking_voronoi) Tracking Example
 
-Additional Examples
+### Additional Examples
 
 [Kyle McDonald's p5.js CV examples](https://kylemcdonald.github.io/cv-examples/)
 
-To Do before Monday's Class:
+### To Do before Tuesday's Class:
 
 - - Review Assignment 1 and come to class with questions.
 - [Mini assignment 3](/assignments/mini-assignment-3): modify or extend one of the example sketches in [layout examples](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5) to annotate/stylize or analyze a chosen image or video clip.

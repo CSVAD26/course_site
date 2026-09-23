@@ -3,6 +3,10 @@ title: "Final Project"
 ---
 
 # Final Project
+## In class critique, Tuesday December 1st, 2026
+## All materials submitted online Friday December 11th, 2026
+
+## Project Options
 
 Select from the following options for a final project:
 
@@ -25,7 +29,9 @@ Ari Gilmore's [Waveform library](https://github.com/CSVAD/ari/blob/master/finalP
 
 - Extend any of your mini assignments or previous projects into a final project
 
-Write a short proposal for your final project based on one of the options, due  November 24th
+## Proposal and Deadlines
+
+Write a short proposal for your final project based on one of the options, due November 24th
 
 You may propose one idea, or several different possibilities. Projects may be collaborative. If you plan to work with other members of the class, describe how you plan to organize the work across the members of the team members.
 
@@ -33,9 +39,11 @@ Upload your project description to Github before under a new directory entitled 
 
 Proposals will be presented in class on November 24th  (see schedule detail). Proposals should be edited based on peer and instructor feedback.
 
-Final project critiques will take place on  December 9th and 10th
+Final project critiques will take place on December 9th and 10th
 
 All final project materials are due on December 12th.
+
+## Final Submission Materials
 
 Materials include:
 
@@ -45,7 +53,7 @@ Materials include:
 - Approx. 250-500 word course self assessment. In your assessment, describe how you felt you performed in the class, what you did well and possible areas for growth. Touch on the specific components of the course (weekly assignments, reading reflections, participation, final project). Submit via email to [jmjacobs@ucsb.edu](mailto:jmjacobs@ucsb.edu)
 - Complete the course evaluation if you have not already.
 
-# Critique Requirements
+## Critique Requirements
 
 Each student or project group should prepare a 10 minute presentation on their final project for the day of the critique. Following the 10 minute presentation, there will be 10-15 minutes for questions and feedback from the class and reviewer(s).
 
@@ -58,7 +66,7 @@ Clearly describe your project idea and the motivation behind it. This may includ
 - Process - i.e. how you made it:
 Provide an overview of the process you took in completing your final project. This should include the following: 1) a discussion of specific challenges you encountered during the process and how you addressed them, 2) how your concept and motivation evolved throughout the course of working on the project, and 3) what you learned through the process. For projects that focus on a particular algorithm (generative series, ML based approaches, etc.) your discussion of process should include an overview of your algorithm functionality.
 
-Additional Notes
+### Additional Notes
 
 The format of your presentation is up to you. You can choose to create slides, a video, or an html or markdown document with images and text. The only requirement is that you upload your presentation to Github in some form.
 

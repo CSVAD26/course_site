@@ -50,15 +50,16 @@ const config: Config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: false,
-          editUrl: 'https://github.com/imoyer/stepdance/tree/main/doc/',
+          editUrl: 'https://github.com/CSVAD26/course_site/tree/main/doc/',
         },
+        
         blog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/imoyer/stepdance/tree/main/blog/',
+          editUrl: 'https://github.com/CSVAD26/course_site/tree/main/blog/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -94,11 +95,10 @@ const config: Config = {
             {to: '/schedule/week-3-motion', label: 'Week 3: Motion'},
             {to: '/schedule/week-4-project-1-review-user-interface', label: 'Week 4: Project 1 Review / User Interface'},
             {to: '/schedule/week-5-creative-data-viz', label: 'Week 5: Creative Data Viz'},
-            {to: '/schedule/week-6-physical-computing-and-sensing', label: 'Week 6: Physical Computing and Sensing'},
-            {to: '/schedule/week-7-abstraction', label: 'Week 7: Abstraction'},
-            {to: '/schedule/week-8-generativity', label: 'Week 8: Generativity'},
+            {to: '/schedule/week-8-generativity', label: 'Week 7: Generativity'},
+            {to: '/schedule/week-7-abstraction', label: 'Week 8: Abstraction'},
             {to: '/schedule/week-9-final-project-proposals', label: 'Week 9: Final Project Proposals'},
-            {to: '/schedule/week-10-reflection', label: 'Week 10: Reflection'},
+            {to: '/schedule/week-10-final-project-presentations', label: 'Week 10: Final Project Presentations'},
           ],
         },
         {
@@ -123,12 +123,12 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://expressivecomputation.com/publication/stepdance',
+          href: 'https://drive.google.com/drive/folders/1D8l-u9do5R-WJO3_2hyC6LD6qD5RYk-F?usp=drive_link',
           label: 'Class Drive',
           position: 'right',
         },
         {
-          href: 'https://github.com/pixelmaid/csvad26',
+          href: 'https://github.com/CSVAD26',
           label: 'Class GitHub',
           position: 'right',
         },
@@ -151,7 +151,8 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/imoyer/stepdance',
+              href: 'https://github.com/CSVAD26'
+              ,
             },
           ],
         },

@@ -4,6 +4,8 @@ title: "Mini Assignment 5"
 
 # Mini Assignment 5
 
+## Instructions
+
 - Integrate Processing with Sensor Data
 
 - Work in teams of two. Using your assigned sensor, write an arduino sketch that takes in sensor data and transmits it to either Processing or [P5.js](http://p5.js). You may use Firmata + Processing, or Serial Communication with Processing / [P5.js](http://p5.js).

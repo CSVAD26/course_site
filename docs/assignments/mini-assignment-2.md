@@ -4,6 +4,8 @@ title: "Mini Assignment 2"
 
 # Mini Assignment 2
 
+## Instructions
+
 - Create a color picker sketch
 
 - Review the examples in this week's example folder on [Github](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/colorp5)

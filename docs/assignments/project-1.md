@@ -2,9 +2,11 @@
 title: "Project 1"
 ---
 
-# Project 1 - Drawing Tool
+# Project 1 - Drawing Tool 
 
-### Project Requirements
+## Due Thursday October 22nd
+
+## Project Requirements
 
 Create a drawing tool with the following qualities:
 
@@ -13,7 +15,7 @@ Create a drawing tool with the following qualities:
 - The tool must impose one or more aesthetic constraints on the creator- e.g. it should be easier to create works in certain style or characteristic using your tool.
 - The tool should not require any verbal instructions on how to use it. All guidance must be supplied directly within the tool itself.
 
-### Possible Starting Points
+## Possible Starting Points
 
 - Identify a visual artist or designer with a consistent style and aesthetic in their work and create a tool aimed at reproducing elements of their style. Examples: [Data Ink](https://datainkresearch.github.io/) and [Dear Data](https://www.dear-data.com/theproject)
 Note: Discuss with Prof. Jacobs if you are considering the use of an LLM in this process. Artists generally do not appreciate having their work copied and reproduced by GenAI.
@@ -24,18 +26,18 @@ Note: Discuss with Prof. Jacobs if you are considering the use of an LLM in this
 - Create a drawing tool with an animated element- Example: [Golan Levin's YellowTail](https://editor.p5js.org/golan/sketches/3_V73feC_)
 - Create a tool that integrates another modality with drawing- Example: [Eric Rosenbaum's Singing Fingers](https://www.ericrosenbaum.com/singing-fingers)
 
-### Project Deliverables
+## Project Deliverables
 
 - Source code with comments uploaded to GitHub.
 - Complied working version of app brought to class for Review (see below).
 - Description of project functionality and design principles in accompanying [README.md](http://readme.md) file, also uploaded to GitHub. Minimum 500 words describing your process, reflections, and outcomes.
 
-### Example Student Projects
+## Example Student Projects
 
 Sam Bourgault's [Megafauna](https://github.com/CSVAD/sam/tree/master/finalProject/presentation) - later a research paper: [https://expressivecomputation.com/publication/megafauna](https://expressivecomputation.com/publication/megafauna)Jungah Son's [Emotive recoloring tool](https://www.youtube.com/watch?v=7eih59ZPE4o&ab_channel=JungahSon) ([PDF presentation](https://github.com/CSVAD/jungah/blob/master/projects/finalProject/Finalproject_JSon.pdf))
 Devon Frost's [Weaving draft editor](https://editor.p5js.org/de-vo13/sketches/y6XrNWHIP) / [Harmonograph Simulator](https://editor.p5js.org/de-vo13/sketches/lwwv8HXWH)Sihwa Park's 3D [Lissajous curve generator](https://github.com/CSVAD/sihwa/tree/master/projects/week3)Sihwa Park's [Sound Brush](https://github.com/CSVAD/sihwa/tree/master/projects/week7)
 
-### Review of Project
+## Review of Project
 
 In Groups of 2, let your partner try out your drawing tool. One person will act as the "observer", the other person will act as the "user". Observers will give the user their tool to try out. Observers can respond to direct questions from the user, but otherwise, you cannot intervene.  Users- during your exploration, screen capture 2-3 drawings produced with the tool. Try to avoid asking questions immediately unless you are truly stuck.
 

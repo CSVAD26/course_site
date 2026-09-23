@@ -4,9 +4,7 @@ title: "Week 3: Motion"
 
 # Week 3: Motion
 
-Week 3: Motion
-
-Monday, October 13th Overview
+## Tuesday, October 13th Overview
 
 - Review Mini Assignment 3 / questions from the previous week
 - Hysteresis attempt 2 !
@@ -31,7 +29,7 @@ Monday, October 13th Overview
 - [Example 3](http://www.generative-gestaltung.de/2/sketches/?02_M/M_2_3_01)
 - [Example 4](http://www.generative-gestaltung.de/2/sketches/?02_M/M_6_1_01)
 
-To Do before Wednesday's Class:
+### To Do before Thursday's Class:
 
 - Reading and Reflection
 
@@ -39,7 +37,7 @@ To Do before Wednesday's Class:
 - Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/1Pq75kf9YTPBkk-ybIzS5nefrJ5lVKWPnaj5DHB6-1wc/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0) and add your response
 - Experiment with [sample code in motion examples](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/motion) and take a look at extra materials.
 
-Wednesday, October 15th Overview
+## Thursday, October 15th Overview
 
 - Reading Discussion- Discussion leaders Taneesha and Siddarth
 - UI Resources
@@ -60,6 +58,6 @@ Wednesday, October 15th Overview
 - [forces](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/motion/forces_animation)
 - [particles](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/motion/butterfly_particles)
 
-To Do before Monday's Class:
+### To Do before Tuesday's Class:
 
 - Finish [Project 1](/assignments/project-1) and come to class prepared to have another person try out your drawing tool!

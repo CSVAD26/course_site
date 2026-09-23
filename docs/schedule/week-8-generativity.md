@@ -1,12 +1,12 @@
 ---
-title: "Week 8: Generativity"
+title: "Week 7: Generativity"
 ---
 
-# Week 8: Generativity
+# Week 7: Generativity
 
-Week 8: Generativity
+## Tuesday, November 10th Overview
 
-Monday, Nov 17th Overview
+- Project 2 is due before class.
 
 - Review of  Project 2 (cont)
 
@@ -46,7 +46,7 @@ Review of past and present generative works.
 
 [Artists' response](https://www.nytimes.com/2023/07/15/technology/artificial-intelligence-models-chat-data.html)[Protecting Artists from GenAI training](https://glaze.cs.uchicago.edu/)
 
-Assignment
+## Assignment
 
 - Reading
 
@@ -54,7 +54,7 @@ Assignment
 
 Complete a reading reflection in the [slide deck](https://docs.google.com/presentation/d/1ViEznOkF1dAoHcaWhA55JFzrJT8MeZE01VYyeKkOR-o/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0)
 
-Thursday November 19th Overview
+## Thursday, November 12th Overview
 
 Reading Discussion- Porquet et al.
 
@@ -70,7 +70,7 @@ Creating complex generative designs with simple noise patterns using particle sy
 
 [Original Processing Examples](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/generativity/procedural_generativity_processing)
 
-Additional Generative Examples
+### Additional Generative Examples
 
 [Bohnacker's Generative Design - Randomness and Noise](http://www.generative-gestaltung.de/2/)
 
@@ -98,6 +98,6 @@ Model: Gemini 2.5 Flash (and variations): [One of Google's current models](https
 
 All Gemini examples require signing up for a (free) Gemini account to access an API key. Instructions are on the [readme](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/generativity#gemini-api-python-setup)
 
-## To do for Monday's Class
+### To do for Tuesday's Class
 
 Create a slide for your final project proposal in this [slide deck](https://docs.google.com/presentation/d/1mrVe2PmQ0X3aP5baXC41zzsMqm177bAt5dj7ZKS_D4k/edit?slide=id.g3a6940f98a5_0_0#slide=id.g3a6940f98a5_0_0)

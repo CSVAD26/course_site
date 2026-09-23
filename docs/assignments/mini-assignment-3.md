@@ -4,6 +4,8 @@ title: "Mini Assignment 3"
 
 # Mini Assignment 3
 
+## Instructions
+
 - Use computer vision or another technique to annotate or subdivide an image
 
 - Review the examples in this week's example folder on [Github](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5)

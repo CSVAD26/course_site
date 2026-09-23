@@ -1,12 +1,10 @@
 ---
-title: "Week 7: Abstraction"
+title: "Week 8: Abstraction"
 ---
 
-# Week 7: Abstraction
+# Week 8: Abstraction
 
-Week 7: Abstraction
-
-Monday, November 10th Overview
+## Tuesday, November 17th Overview
 
 - Review of Sensing Assignment
 - Questions on [Project 2](/assignments/project-2) (Due Wednesday)
@@ -49,7 +47,7 @@ Example library: Processing implementation of Dynamic Brushes- [Drawing Manager]
 
 Complete a reading reflection in the [slide deck](https://docs.google.com/presentation/d/1Y3_2utfElyzvKqXDQlh00mFXUMkLTDtj1CPxV9YnGP0/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0)
 
-Wednesday, November 12th, Overview
+## Thursday, November 19th, Overview
 
 - Reading Discussion for Malleable Software ([slides](https://docs.google.com/presentation/d/1Y3_2utfElyzvKqXDQlh00mFXUMkLTDtj1CPxV9YnGP0/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0))
 - [Project 2 Review](/assignments/project-2)
