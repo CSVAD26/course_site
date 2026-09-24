@@ -8,7 +8,7 @@ title: "Mini Assignment 2"
 
 - Create a color picker sketch
 
-- Review the examples in this week's example folder on [Github](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/colorp5)
+- Review the examples in this week's example folder on [Github](https://github.com/CSVAD26/code_samples/tree/main/colorp5)
 - Select one example and modify it in one or more of the following ways:
 
 - alter the overall range of possible colors

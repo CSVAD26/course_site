@@ -8,7 +8,7 @@ title: "Mini Assignment 3"
 
 - Use computer vision or another technique to annotate or subdivide an image
 
-- Review the examples in this week's example folder on [Github](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5)
+- Review the examples in this week's example folder on [Github](https://github.com/CSVAD26/code_samples/tree/main/layoutp5)
 - Modify an example into a p5.js sketch that takes an image or video as input and:
 
 - Subdivides the image in some way (e.g. using Voronoi or Delaunay, or [convex hull](https://editor.p5js.org/JeromePaddick/sketches/WmB2XRY8N) divisions on a set of computationally or user-specified points)

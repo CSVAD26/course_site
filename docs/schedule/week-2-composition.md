@@ -46,7 +46,7 @@ See this [video](https://www.youtube.com/watch?v=-eL-7T6tfcE)of the execution of
 
 - [Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing](https://drive.google.com/file/d/1kFCYMnZbCAQJzbcyhtDY765807PnSaLb/view?usp=drive_link) by Ma et al.
 - Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/10lnVKF1ueIopTiyXIFm0WSoCy0xZLqOEEKotNBFwbQ4/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0) and add your response
-- Experiment with sample code in[layout examples](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5)
+- Experiment with sample code in[layout examples](https://github.com/CSVAD26/code_samples/tree/main/layoutp5)
 
 ## Thursday, October 8th Overview
 
@@ -59,21 +59,21 @@ See this [video](https://www.youtube.com/watch?v=-eL-7T6tfcE)of the execution of
 - Edge Detection
 
 - [Open CV Reference](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)
-- [P5.js Edge Detection Example](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5/cv_examples/CannyEdgeDetection)
+- [P5.js Edge Detection Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/CannyEdgeDetection)
 - Contour Detection
 
 - [Open CV Reference](https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html)
-- [P5.js Example](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5/cv_examples/openCV_ContourDetection)
+- [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/openCV_ContourDetection)
 - KMeans Color Segmentation
 
 - [Matlab Reference](https://www.mathworks.com/help/images/color-based-segmentation-using-k-means-clustering.html)
-- [P5.js Example](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5/cv_examples/openCV_KMeans_Color)
+- [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/openCV_KMeans_Color)
 - Spatial Segmentation
 
 - [Voronoi Diagram / Delaunay Triangulation](https://mathworld.wolfram.com/VoronoiDiagram.html)
-- [P5.js Example](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5/cv_examples/delaunay_voronoi)
-- [Video Point Tracking Example](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5/cv_examples/PointTracking)
-- Voronoi/ [Point](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5/cv_examples/PointTracking_voronoi) Tracking Example
+- [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/delaunay_voronoi)
+- [Video Point Tracking Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/PointTracking)
+- Voronoi/ [Point](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/PointTracking_voronoi) Tracking Example
 
 ### Additional Examples
 
@@ -82,4 +82,4 @@ See this [video](https://www.youtube.com/watch?v=-eL-7T6tfcE)of the execution of
 ### To Do before Tuesday's Class:
 
 - - Review Assignment 1 and come to class with questions.
-- [Mini assignment 3](/assignments/mini-assignment-3): modify or extend one of the example sketches in [layout examples](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/layoutp5) to annotate/stylize or analyze a chosen image or video clip.
+- [Mini assignment 3](/assignments/mini-assignment-3): modify or extend one of the example sketches in [layout examples](https://github.com/CSVAD26/code_samples/tree/main/layoutp5) to annotate/stylize or analyze a chosen image or video clip.

@@ -27,7 +27,7 @@ title: "Week 5: Creative Data Viz"
 - Using [P5.js](http://p5.js) to create interactive visualizations
 - D3- brief overview (if time) using [Observable](https://observablehq.com/@d3/gallery)
 
-[Class Code Examples](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/datahttps://github.com/CSVADFall25/CSVAD25_examples/tree/main/data)
+[Class Code Examples](https://github.com/CSVAD26/code_samples/tree/main/data)
 
 ### Python Data Parsing Resources:
 

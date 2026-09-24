@@ -14,15 +14,15 @@ title: "Week 8: Abstraction"
 
 ### Creating libraries for [p5.js](http://p5.js)
 
-Example: [Dynamic Brushes converted to a P5.js library](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/abstraction/DrawingManagerP5)
+Example: [Dynamic Brushes converted to a P5.js library](https://github.com/CSVAD26/code_samples/tree/main/abstraction/DrawingManagerP5)
 
-Option 1- create an additional class and instantiate it. Example:[p5Dynamic Brushes](https://github.com/CSVADFall25/CSVAD25_examples/blob/main/abstraction/DrawingManagerP5/drawingmanager.js)
+Option 1- create an additional class and instantiate it. Example:[p5Dynamic Brushes](https://github.com/CSVAD26/code_samples/blob/main/abstraction/DrawingManagerP5/drawingmanager.js)
 
-[Example Programs using Dynamic Brushes library](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/abstraction/DrawingManagerP5/examples)
+[Example Programs using Dynamic Brushes library](https://github.com/CSVAD26/code_samples/tree/main/abstraction/DrawingManagerP5/examples)
 
-Option 2- [create an addon](https://github.com/processing/p5.js/blob/main/contributor_docs/creating_libraries.md). Example [p5DynamicBrushes Addon](https://github.com/CSVADFall25/CSVAD25_examples/blob/main/abstraction/DrawingManagerP5/drawingmanager-addon.js)
+Option 2- [create an addon](https://github.com/processing/p5.js/blob/main/contributor_docs/creating_libraries.md). Example [p5DynamicBrushes Addon](https://github.com/CSVAD26/code_samples/blob/main/abstraction/DrawingManagerP5/drawingmanager-addon.js)
 
-[Example Programs using Addon Library](https://github.com/CSVADFall25/CSVAD25_examples/tree/main/abstraction/DrawingManagerP5/examples-addon)
+[Example Programs using Addon Library](https://github.com/CSVAD26/code_samples/tree/main/abstraction/DrawingManagerP5/examples-addon)
 
 Benefits of Addon approach: [Creating an official contribution to the p5.js contributed libraries](https://p5js.org/libraries/)
 
