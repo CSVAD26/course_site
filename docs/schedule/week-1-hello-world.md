@@ -12,7 +12,31 @@ title: "Week 1: Hello World"
 - [Zach Lieberman's](http://thesystemis.com/) Question Exercise: [Slide deck](https://docs.google.com/presentation/d/15qrxpkwulP3U2eypF1jB6iOn4XcJsMwocKKznQU1eRw/edit?slide=id.gb3b1d64e0c_0_0#slide=id.gb3b1d64e0c_0_0) -- What questions brought you to the room?
 
 - Introduction to [p5.js](http://p5.js) and [Git](https://git-scm.com/)/[Github](https://github.com/about)
+    
 - Introduce [mini assignment](/assignments/mini-assignment-1) and [first project](/assignments/project-1)
+
+### Set Up VS Code and Download the Examples
+
+1. Install [Visual Studio Code](https://code.visualstudio.com/download).
+2. Install [Git](https://git-scm.com/downloads) if it is not already installed on your computer.
+3. Open VS Code and install the **Live Server** extension from the Extensions panel. Live Server lets you open p5.js sketches in a browser while you work.
+4. Open the VS Code integrated terminal with **Terminal > New Terminal**.
+5. Move to the folder where you keep your course work, then download the examples repository:
+
+```bash
+cd ~/Documents
+git clone https://github.com/CSVAD26/code_samples.git
+```
+
+6. In VS Code, choose **File > Open Folder** and open the downloaded `code_samples` folder.
+7. Open a sketch folder, such as `colorp5/AccentPalette`, and open its `index.html` file.
+8. Right-click `index.html`, choose **Open with Live Server**, and use the browser tab that opens to run the sketch.
+
+To download updates later, open the terminal inside the `code_samples` folder and run:
+
+```bash
+git pull
+```
 
 ### To Do before Thursday's Class:
 
@@ -22,7 +46,7 @@ Fill out the [course registration survey](https://docs.google.com/forms/d/e/1FAI
 #### Reading
 [Color Builder: A Direct Manipulation Interface for Versatile Color Theme Authoring](https://drive.google.com/file/d/1FOMmP-iiZyTzVN-PwOwDGJMgrSiWLp3y/view?usp=drive_link) by Shugrina et al.
 
-Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/1Y57RS7V_8m6ZNdPgN4Fp8PbN-Fvsl7ySWWtqPaWD268/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0) and add your response.
+Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/13s0LMsrdZv_SnamTKCcmo6x3xGnHomiIqbE6_Tp36yw/edit?usp=drive_link) and add your response.
 
 ### Assignment
 Complete [Mini Assignment 1](/assignments/mini-assignment-1)
@@ -35,7 +59,7 @@ Complete [Mini Assignment 1](/assignments/mini-assignment-1)
 What distinctions do you notice between faces created with code, created by hand, and created with LLMs?
 
 #### Computational Interfaces for Creative Expression -- Color Selection
-- [Lecture: Basics of Color Theory](https://docs.google.com/presentation/d/17wgwKwLR3KzipQdGRJ3DTK76bXJqadE05JtF1ZaQiWo/edit?slide=id.g387bf7cdbdf_0_130#slide=id.g387bf7cdbdf_0_130)
+- [Lecture: Basics of Color Theory](https://docs.google.com/presentation/d/1D77ui1OyrrPRDktUqmrQ4uEDWEGgk3fwX3AXyBNOshE/edit?slide=id.p#slide=id.p)
 
 - Overview of mini [p5.js](http://p5.js) color pickers and color explorers
 [Examples on Github](https://github.com/CSVAD26/code_samples/tree/main/colorp5)
@@ -84,5 +108,5 @@ Ghita Jalal, Nolwenn Maudet and Wendy E. Mackay's Color Portraits (2015) [CHI pa
 ### To Do before Tuesday's Class:
 
 - Upload first assignment to github if not yet completed
-- Sign up for a [reading reflection leader slot](https://docs.google.com/spreadsheets/d/14mRWJATAd0q7vQLdPNhKXwmVRJTFubJc6-RG4jkN3gY/edit?gid=1689190312#gid=1689190312). See the reading list on the [schedule page](/schedule)
+- Sign up for a [reading reflection leader slot](https://docs.google.com/spreadsheets/d/13vot82xunANGx3bC1e357Fjg1nezehHBdTzS4hRAzIY/edit?gid=1689190312#gid=1689190312). See the reading list on the [schedule page](/schedule)
 - Complete [mini assignment 2](/assignments/mini-assignment-2)
