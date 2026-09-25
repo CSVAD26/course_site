@@ -6,8 +6,9 @@ title: "Schedule"
 
 | Week | Class date | Class topic | Reading assignment | Project or assignment due |
 | --- | --- | --- | --- | --- |
-| [Week 1: Hello World](./schedule/week-1-hello-world) | Tuesday, September 29 | Course introduction; p5.js and Git; question exercise | [Color Builder: A Direct Manipulation Interface for Versatile Color Theme Authoring](https://drive.google.com/file/d/1FOMmP-iiZyTzVN-PwOwDGJMgrSiWLp3y/view?usp=drive_link) | Mini Assignment 1 due before Thursday, October 1 |
-|  | Thursday, October 1 | Color selection and creative interfaces; color tools and examples | — | Mini Assignment 2 due before Tuesday, October 6 |
+| [Week 0: Hello World](./schedule/week-0-hello-world) | Thursday, September 24 | Course introduction; p5.js and Git; question exercise | — | Mini Assignment 1 due before Tuesday, September 29 |
+| [Week 1: Color](./schedule/week-1-hello-world) | Tuesday, September 29 | Color theory; p5.js color pickers and color explorers | [Color Builder: A Direct Manipulation Interface for Versatile Color Theme Authoring](https://drive.google.com/file/d/1FOMmP-iiZyTzVN-PwOwDGJMgrSiWLp3y/view?usp=drive_link) | — |
+|  | Thursday, October 1 | Color selection studio; color tools and computational color resources | — | Mini Assignment 2 due before Tuesday, October 6 |
 | [Week 2: Composition](./schedule/week-2-composition) | Tuesday, October 6 | Composition basics; grids and systems | [Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing](https://drive.google.com/file/d/1kFCYMnZbCAQJzbcyhtDY765807PnSaLb/view?usp=drive_link) | — |
 |  | Thursday, October 8 | OpenCV.js; computer vision, image analysis, and segmentation | — | Mini Assignment 3 due before Tuesday, October 13 |
 | [Week 3: Motion](./schedule/week-3-motion) | Tuesday, October 13 | Jennifer at Golden State Manufacturing Forum- no in person class, but code examples and reading provided. | [Narrative Motion Blocks: Combining Direct Manipulation and Natural Language Interactions for Animation Creation](https://drive.google.com/file/d/1D5TgMnrVkzPzDvTNJvk2V-sGkSBnkZLE/view?usp=drive_link) | — |
