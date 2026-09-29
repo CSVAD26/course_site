@@ -24,6 +24,9 @@ What distinctions do you notice between faces created with code, created by hand
     - Once complete, we will ask for volunteers to share their results.
 
 
+### Project 1
+Review the requirements for [project one](/assignments/project-1) and examples from last year
+
 ### To Do before Thursday's Class:
 
 #### Reading

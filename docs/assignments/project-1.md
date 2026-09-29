@@ -34,6 +34,8 @@ Note: Discuss with Prof. Jacobs if you are considering the use of an LLM in this
 
 ## Example Student Projects
 
+Selected Examples from CSVAD 25': [Student Examples](https://github.com/CSVAD26/code_samples/tree/main/project1_examples)
+
 Sam Bourgault's [Megafauna](https://github.com/CSVAD/sam/tree/master/finalProject/presentation) - later a research paper: [https://expressivecomputation.com/publication/megafauna](https://expressivecomputation.com/publication/megafauna)Jungah Son's [Emotive recoloring tool](https://www.youtube.com/watch?v=7eih59ZPE4o&ab_channel=JungahSon) ([PDF presentation](https://github.com/CSVAD/jungah/blob/master/projects/finalProject/Finalproject_JSon.pdf))
 Devon Frost's [Weaving draft editor](https://editor.p5js.org/de-vo13/sketches/y6XrNWHIP) / [Harmonograph Simulator](https://editor.p5js.org/de-vo13/sketches/lwwv8HXWH)Sihwa Park's 3D [Lissajous curve generator](https://github.com/CSVAD/sihwa/tree/master/projects/week3)Sihwa Park's [Sound Brush](https://github.com/CSVAD/sihwa/tree/master/projects/week7)
 
