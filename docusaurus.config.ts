@@ -91,7 +91,7 @@ const config: Config = {
           items: [
             {to: '/schedule', label: 'Schedule Overview'},
             {to: '/schedule/week-0-hello-world', label: 'Week 0: Hello World'},
-            {to: '/schedule/week-1-hello-world', label: 'Week 1: Color'},
+            {to: '/schedule/week-1-color', label: 'Week 1: Color'},
             {to: '/schedule/week-2-composition', label: 'Week 2: Composition'},
             {to: '/schedule/week-3-motion', label: 'Week 3: Motion'},
             {to: '/schedule/week-4-project-1-review-user-interface', label: 'Week 4: Project 1 Review / User Interface'},
