@@ -37,6 +37,14 @@ Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentati
 
 ## Thursday, October 1st Overview
 
+### Project 1 Student Example projects
+See student examples on [Project 1](/assignments/project-1) page
+
+### Follow up from prior code examples
+Questions from examples?
+
+[EyeDropper](https://github.com/CSVAD26/code_samples/tree/main/colorp5/EyeDropper) using p5.js get() method
+
 ### Reading Discussion- Leader Jennifer
 
 [Reflection Slide Deck](https://docs.google.com/presentation/d/13s0LMsrdZv_SnamTKCcmo6x3xGnHomiIqbE6_Tp36yw/edit?usp=drive_link)
