@@ -8,7 +8,7 @@ title: "Week 2: Composition"
 
 - Review Mini Assignment 2 / questions from the previous week
 - Reading Reflection check in
-- Composition Basics Overview- [Slides](https://docs.google.com/presentation/d/11WoR4ebVe0QiPB2g2a2-C9A6CT7f-Cg7pFpknP4RT30/edit?slide=id.g38f0a887909_0_10#slide=id.g38f0a887909_0_10)
+- Composition Basics Overview- [Slides](https://docs.google.com/presentation/d/1QtARWYCFTtb_kRg6mabooQUKawQw6GZGiMnlOJNfjM4/edit?usp=drive_link)
 - Grid Examples
 
 "A grid system is not just a set of rules to follow... but it's also a set of rules to play off of–to break, even. Given the right grid – the right system of constraints – very good designers can create solutions that are both orderly and unexpected."
@@ -46,13 +46,12 @@ See this [video](https://www.youtube.com/watch?v=-eL-7T6tfcE)of the execution of
 
 - [Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing](https://drive.google.com/file/d/1kFCYMnZbCAQJzbcyhtDY765807PnSaLb/view?usp=drive_link) by Ma et al.
 - Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/10lnVKF1ueIopTiyXIFm0WSoCy0xZLqOEEKotNBFwbQ4/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0) and add your response
-- Experiment with sample code in[layout examples](https://github.com/CSVAD26/code_samples/tree/main/layoutp5)
+- Experiment with sample code in [layout examples](https://github.com/CSVAD26/code_samples/tree/main/layoutp5)
 
 ## Thursday, October 8th Overview
 
-- - Reading discussion- leaders Jintong and Jon
+- - Reading discussion- leaders []
 - Questions on examples from Monday's class
-- [A message of caution...](https://docs.google.com/presentation/d/11WoR4ebVe0QiPB2g2a2-C9A6CT7f-Cg7pFpknP4RT30/edit?slide=id.g39453343979_0_42#slide=id.g39453343979_0_42)
 - Using [OpenCV.js](https://docs.opencv.org/4.x/d5/d10/tutorial_js_root.html) with [P5.js](http://p5.js)
 - Computer Vision examples for Image analysis and segmentation
 
