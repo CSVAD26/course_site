@@ -45,12 +45,12 @@ See this [video](https://www.youtube.com/watch?v=-eL-7T6tfcE)of the execution of
 - Reading and Reflection
 
 - [Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing](https://drive.google.com/file/d/1kFCYMnZbCAQJzbcyhtDY765807PnSaLb/view?usp=drive_link) by Ma et al.
-- Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/10lnVKF1ueIopTiyXIFm0WSoCy0xZLqOEEKotNBFwbQ4/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0) and add your response
+- Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/1xOvUbAEJKkV03lRfIt57pnKjuB_J_r0fTTbCAJAOyZk/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0) and add your response
 - Experiment with sample code in [layout examples](https://github.com/CSVAD26/code_samples/tree/main/layoutp5)
 
 ## Thursday, October 8th Overview
 
-- - Reading discussion- leaders []
+- - Reading discussion- leader: Noah [Reflection Slides](https://docs.google.com/presentation/d/1xOvUbAEJKkV03lRfIt57pnKjuB_J_r0fTTbCAJAOyZk/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0)
 - Questions on examples from Monday's class
 - Using [OpenCV.js](https://docs.opencv.org/4.x/d5/d10/tutorial_js_root.html) with [P5.js](http://p5.js)
 - Computer Vision examples for Image analysis and segmentation
