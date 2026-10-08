@@ -11,10 +11,10 @@ title: "Schedule"
 |  | Thursday, October 1 | Color selection studio; color tools and computational color resources | — | Mini Assignment 2 due before Tuesday, October 6 |
 | [Week 2: Composition](./schedule/week-2-composition) | Tuesday, October 6 | Composition basics; grids and systems | [Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing](https://drive.google.com/file/d/1kFCYMnZbCAQJzbcyhtDY765807PnSaLb/view?usp=drive_link) | — |
 |  | Thursday, October 8 | OpenCV.js; computer vision, image analysis, and segmentation | — | Mini Assignment 3 due before Tuesday, October 13 |
-| [Week 3: Motion](./schedule/week-3-motion) | Tuesday, October 13 | Jennifer at Golden State Manufacturing Forum- no in person class, but code examples and reading provided. | [Narrative Motion Blocks: Combining Direct Manipulation and Natural Language Interactions for Animation Creation](https://drive.google.com/file/d/1D5TgMnrVkzPzDvTNJvk2V-sGkSBnkZLE/view?usp=drive_link) | — |
-| | Thursday, October 15 |  Procedural Motion basics; project 1 examples | — | — |
-| [Week 4: Motion Cont. / Project 1 Review](./schedule/week-4-project-1-review-user-interface) | Tuesday, October 20 |  UI resources; vectors, physics, and project 1 questions  | [Unpredictable Black Boxes Are Terrible](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible) | — |
-|  | Thursday, October 22 | Project 1 In Class Review | — | Project 1 Due|
+| [Week 3: Motion](./schedule/week-3-motion) | Tuesday, October 13 | No in-person class; Jennifer at the Golden State Manufacturing Forum; reading, reflection, and motion examples | [Narrative Motion Blocks: Combining Direct Manipulation and Natural Language Interactions for Animation Creation](https://drive.google.com/file/d/1D5TgMnrVkzPzDvTNJvk2V-sGkSBnkZLE/view?usp=drive_link) | — |
+| | Thursday, October 15 | Motion Basics | — | — |
+| [Week 4: Project 1 Review / User Interface](./schedule/week-4-project-1-review-user-interface) | Tuesday, October 20 | Motion components and examples; UI resources | [Unpredictable Black Boxes Are Terrible](https://magrawala.substack.com/p/unpredictable-black-boxes-are-terrible) | — |
+|  | Thursday, October 22 | Project 1 in-class review | — | Project 1 Due|
 | [Week 5: Creative Data Viz](./schedule/week-5-creative-data-viz) | Tuesday, October 27 | Creative data visualization; Python and p5.js introduction | [Sculpin: Direct Manipulation of JSON](https://drive.google.com/file/d/1ccIVyN95KfoiltWCN4wPpW2-jLxaR2Ws/view?usp=drive_link) | — |
 | | Thursday, October 29 | Python data parsing; interactive visualization with p5.js and D3 | — | Mini Assignment 4 due before Tuesday, November 3 |
 | [Week 6: No Class](./schedule/week-6-physical-computing-and-sensing) | Tuesday, November 3 | Jennifer at [ACM UIST 2026](https://uist.acm.org/2026/) | — | — |

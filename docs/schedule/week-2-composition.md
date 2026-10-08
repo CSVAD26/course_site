@@ -18,7 +18,7 @@ Grids: repeating structures of form and spacing provide a means to organize a de
 
 ### Examples:
 
-- - [Bridget Riley:](https://www.tate.org.uk/art/artists/bridget-riley-1845) English Painter who is one of the most prominent creators of[OpArt.](https://magazine.artland.com/art-movement-op-art/) Riley's paintings use repetition and contrast to create subtle effects on the eyes of the viewer [[Reas et al.](http://formandcode.com/contents)]
+- [Bridget Riley:](https://www.tate.org.uk/art/artists/bridget-riley-1845) English Painter who is one of the most prominent creators of[OpArt.](https://magazine.artland.com/art-movement-op-art/) Riley's paintings use repetition and contrast to create subtle effects on the eyes of the viewer [[Reas et al.](http://formandcode.com/contents)]
 - [Vera Molnar:](http://www.artnet.com/artists/vera-molnar/?type=works-on-paper) Hungarian artist who created intricate plotter-based artwork. One of the first artists to use a plotter.
 - [John Maeda- Morisawa 10:](https://maedastudio.com/morisawa-10-2016/) Series of posters created through postscript with repeating and transforming typography [[Referenced from Zach Lieberman's Recreating the Past Course at SFPC](https://github.com/ofZach/SFPC_RTP_fall18)].
 - [Donald Judd](https://www.moma.org/artists/2948): American artist who focused on the constructed object, as well as the space created by it. Many of his works can be found in [Marfa, Texas at the Chinati Foundation](https://en.wikipedia.org/wiki/Donald_Judd) (see also, the [Donald Judd Foundation](https://juddfoundation.org/)).
@@ -28,15 +28,15 @@ Grids: repeating structures of form and spacing provide a means to organize a de
 
 10PRINT references [Composition with Red, Blue, Black, Yellow, and Gray (1921)](https://www.moma.org/collection/works/79002) on page 79.
 
-- - [Theo Van Doesburg](https://www.moma.org/artists/6076): Dutch artist, founder and leader of [De Stijl](https://en.wikipedia.org/wiki/De_Stijl) (aka Neoplasticism, a Dutch art movement).
+- [Theo Van Doesburg](https://www.moma.org/artists/6076): Dutch artist, founder and leader of [De Stijl](https://en.wikipedia.org/wiki/De_Stijl) (aka Neoplasticism, a Dutch art movement).
 
 10PRINT references [Counter-Composition VI (1925)](https://www.tate.org.uk/art/artworks/doesburg-counter-composition-vi-t03374) on page 79.
 
-- - [Paul Klee](https://www.metmuseum.org/toah/hd/klee/hd_klee.htm): Bauhaus professor, whose work in the 1920s resembled Truchet’s and Doüat’s experiments. His 1925 book Pedagogical Sketchbook presents his thoughts on quantitative structure, rhythm, repetition, and variation.
+- [Paul Klee](https://www.metmuseum.org/toah/hd/klee/hd_klee.htm): Bauhaus professor, whose work in the 1920s resembled Truchet’s and Doüat’s experiments. His 1925 book Pedagogical Sketchbook presents his thoughts on quantitative structure, rhythm, repetition, and variation.
 
 10PRINT references his work [Variations (Progressive Motif)](https://www.metmuseum.org/art/collection/search/483167) from 1921 on page 79.
 
-- - [Sol LeWitt](https://massmoca.org/sol-lewitt/): American artist who created wall drawings to be executed from a set of written rules/instructions. Generally, when museums or consumers bought his work, the work at hand was the set of instructions itself (oftentimes, LeWitt himself would not execute the drawings).
+- [Sol LeWitt](https://massmoca.org/sol-lewitt/): American artist who created wall drawings to be executed from a set of written rules/instructions. Generally, when museums or consumers bought his work, the work at hand was the set of instructions itself (oftentimes, LeWitt himself would not execute the drawings).
 
 See this [video](https://www.youtube.com/watch?v=-eL-7T6tfcE)of the execution of LeWitt's Wall Drawing #29.
 
@@ -50,35 +50,46 @@ See this [video](https://www.youtube.com/watch?v=-eL-7T6tfcE)of the execution of
 
 ## Thursday, October 8th Overview
 
-- - Reading discussion- leader: Noah [Reflection Slides](https://docs.google.com/presentation/d/1xOvUbAEJKkV03lRfIt57pnKjuB_J_r0fTTbCAJAOyZk/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0)
+- Reading discussion- leader: Noah [Reflection Slides](https://docs.google.com/presentation/d/1xOvUbAEJKkV03lRfIt57pnKjuB_J_r0fTTbCAJAOyZk/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0)
 - Questions on examples from Monday's class
 - Using [OpenCV.js](https://docs.opencv.org/4.x/d5/d10/tutorial_js_root.html) with [P5.js](http://p5.js)
 - Computer Vision examples for Image analysis and segmentation
 
 - Edge Detection
 
-- [Open CV Reference](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)
-- [P5.js Edge Detection Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/CannyEdgeDetection)
+Finds sharp changes in image brightness or color, which often correspond to object boundaries and strong visual features.
+
+    - [Open CV Reference](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)
+    - [P5.js Edge Detection Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/CannyEdgeDetection)
+
 - Contour Detection
 
-- [Open CV Reference](https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html)
-- [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/openCV_ContourDetection)
+Connects edge pixels into outlines that describe the shapes of objects or regions in an image. Computed outlines can be used to identify shapes and measure boundaries.
+
+    - [Open CV Reference](https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html)
+    - [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/openCV_ContourDetection)
+
 - KMeans Color Segmentation
 
-- [Matlab Reference](https://www.mathworks.com/help/images/color-based-segmentation-using-k-means-clustering.html)
-- [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/openCV_KMeans_Color)
+Groups pixels into a specified number of clusters based on color similarity. Replacing each pixel with its cluster color simplifies an image into larger regions.
+
+    - [Matlab Reference](https://www.mathworks.com/help/images/color-based-segmentation-using-k-means-clustering.html)
+    - [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/openCV_KMeans_Color)
+
 - Spatial Segmentation
 
-- [Voronoi Diagram / Delaunay Triangulation](https://mathworld.wolfram.com/VoronoiDiagram.html)
-- [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/delaunay_voronoi)
-- [Video Point Tracking Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/PointTracking)
-- Voronoi/ [Point](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/PointTracking_voronoi) Tracking Example
+Divides an image into regions according to position or a set of points. Voronoi cells assign each pixel to its nearest point, while Delaunay triangulation connects nearby points into a mesh.
+
+    - [Voronoi Diagram / Delaunay Triangulation](https://mathworld.wolfram.com/VoronoiDiagram.html)
+    - [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/delaunay_voronoi)
+    - [Video Point Tracking Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/PointTracking)
+    - Voronoi/ [Point](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/PointTracking_voronoi) Tracking Example
 
 ### Additional Examples
 
-[Kyle McDonald's p5.js CV examples](https://kylemcdonald.github.io/cv-examples/)
+- [Kyle McDonald's p5.js CV examples](https://kylemcdonald.github.io/cv-examples/)
+- Hysteresis: [thermostat example](https://resources.pcb.cadence.com/blog/2021-how-does-temperature-hysteresis-work) and [edge tracking by hysteresis](https://en.wikipedia.org/wiki/Canny_edge_detector#Edge_tracking_by_hysteresis).
 
 ### To Do before Tuesday's Class:
 
-- - Review Assignment 1 and come to class with questions.
 - [Mini assignment 3](/assignments/mini-assignment-3): modify or extend one of the example sketches in [layout examples](https://github.com/CSVAD26/code_samples/tree/main/layoutp5) to annotate/stylize or analyze a chosen image or video clip.
