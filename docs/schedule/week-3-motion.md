@@ -22,7 +22,7 @@ Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentati
 
 - Reading discussion (discussion leaders to be announced).
 
-- Motion basics overview: [slides](https://docs.google.com/presentation/d/1yz_m9DmUWOqNo6DqHca03zF7CMqZZFTq0PyDHBbu-hI/edit?slide=id.g38c37ed1b83_0_5#slide=id.g38c37ed1b83_0_5).
+- Motion basics overview: [slides](https://docs.google.com/presentation/d/1FJO2IVId6LnIeqT32DvGitfxixQx98D3tPTLkxHy2YU/edit?slide=id.p#slide=id.p).
 
 - [OOP in p5.js](https://p5js.org/reference/p5/class/) — exercise caution when vibe coding with classes.
 - [p5.js AI coding support](https://p5js.org/tutorials/criticalai1-chatting-with-about-code/).

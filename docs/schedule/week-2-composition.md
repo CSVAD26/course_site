@@ -55,28 +55,28 @@ See this [video](https://www.youtube.com/watch?v=-eL-7T6tfcE)of the execution of
 - Using [OpenCV.js](https://docs.opencv.org/4.x/d5/d10/tutorial_js_root.html) with [P5.js](http://p5.js)
 - Computer Vision examples for Image analysis and segmentation
 
-- Edge Detection
+### Edge Detection
 
 Finds sharp changes in image brightness or color, which often correspond to object boundaries and strong visual features.
 
     - [Open CV Reference](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)
     - [P5.js Edge Detection Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/CannyEdgeDetection)
 
-- Contour Detection
+### Contour Detection
 
 Connects edge pixels into outlines that describe the shapes of objects or regions in an image. Computed outlines can be used to identify shapes and measure boundaries.
 
     - [Open CV Reference](https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html)
     - [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/openCV_ContourDetection)
 
-- KMeans Color Segmentation
+### KMeans Color Segmentation
 
 Groups pixels into a specified number of clusters based on color similarity. Replacing each pixel with its cluster color simplifies an image into larger regions.
 
     - [Matlab Reference](https://www.mathworks.com/help/images/color-based-segmentation-using-k-means-clustering.html)
     - [P5.js Example](https://github.com/CSVAD26/code_samples/tree/main/layoutp5/cv_examples/openCV_KMeans_Color)
 
-- Spatial Segmentation
+### Spatial Segmentation
 
 Divides an image into regions according to position or a set of points. Voronoi cells assign each pixel to its nearest point, while Delaunay triangulation connects nearby points into a mesh.
 
