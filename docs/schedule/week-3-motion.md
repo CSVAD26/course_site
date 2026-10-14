@@ -14,7 +14,7 @@ There will be no in-person class today while Jennifer attends the Golden State M
 
 [Narrative Motion Blocks: Combining Direct Manipulation and Natural Language Interactions for Animation Creation](https://drive.google.com/file/d/1D5TgMnrVkzPzDvTNJvk2V-sGkSBnkZLE/view?usp=drive_link)
 
-Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/1Pq75kf9YTPBkk-ybIzS5nefrJ5lVKWPnaj5DHB6-1wc/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0) and add your response.
+Create a slide on the [Reflection Slide Deck](https://docs.google.com/presentation/d/1FHfq3J8QjyqmKnP9_D2FIH8oPARDSj0xDC_h6dZSwVM/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0) and add your response.
 
 ## Thursday, October 15th Overview
 
