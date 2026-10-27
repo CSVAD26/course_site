@@ -96,6 +96,7 @@ const config: Config = {
             {to: '/schedule/week-3-motion', label: 'Week 3: Motion'},
             {to: '/schedule/week-4-project-1-review-user-interface', label: 'Week 4: Project 1 Review / User Interface'},
             {to: '/schedule/week-5-creative-data-viz', label: 'Week 5: Creative Data Viz'},
+            {to: '/schedule/week-6-peer-code-review', label: 'Week 6: Peer Code Review'},
             {to: '/schedule/week-8-generativity', label: 'Week 7: Generativity'},
             {to: '/schedule/week-7-abstraction', label: 'Week 8: Abstraction'},
             {to: '/schedule/week-9-final-project-proposals', label: 'Week 9: Final Project Proposals'},

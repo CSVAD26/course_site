@@ -17,8 +17,8 @@ title: "Schedule"
 |  | Thursday, October 22 | Project 1 in-class review | — | Project 1 Due|
 | [Week 5: Creative Data Viz](./schedule/week-5-creative-data-viz) | Tuesday, October 27 | Creative data visualization; Python and p5.js introduction | [Sculpin: Direct Manipulation of JSON](https://drive.google.com/file/d/1ccIVyN95KfoiltWCN4wPpW2-jLxaR2Ws/view?usp=drive_link) | — |
 | | Thursday, October 29 | Python data parsing; interactive visualization with p5.js and D3 | — | Mini Assignment 4 due before Tuesday, November 3 |
-| [Week 6: No Class](./schedule/week-6-physical-computing-and-sensing) | Tuesday, November 3 | Jennifer at [ACM UIST 2026](https://uist.acm.org/2026/) | — | — |
-| | Thursday, November 5 | Jennifer at [ACM UIST 2026](https://uist.acm.org/2026/) | — | — |
+| [Week 6: Peer Code Review](./schedule/week-6-peer-code-review) | Tuesday, November 3 | Student Project 1 concept presentations; Jennifer at [ACM UIST 2026](https://uist.acm.org/2026/) | — | — |
+| | Thursday, November 5 | Student Project 1 concept presentations; Jennifer at [ACM UIST 2026](https://uist.acm.org/2026/) | — | — |
 | [Week 7: Generativity](./schedule/week-8-generativity) | Tuesday, November 10 | In-class Project 2 review | [Copying Style, Extracting Value: Illustrators’ Perception of AI Style Transfer and Its Impact on Creative Labor](https://drive.google.com/open?id=1G_0RJl8RP4Py5OmwzF3KujgrE6Zwf9JI&usp=drive_fs) | Project 2 Due |
 | | Thursday, November 12 | Generative art; procedural methods; final project introduction | — | — |
 | [Week 8: Generativity Cont.](./schedule/week-7-abstraction) | Tuesday, November 17 | Procedural and diffusion-based generativity; generative models | [Malleable Software: Restoring User Agency in a World of Locked-Down Apps](https://www.inkandswitch.com/essay/malleable-software/#apps-are-avocado-slicers) | — |
