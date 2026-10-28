@@ -9,7 +9,7 @@ title: "Week 5: Creative Data Viz"
 ## Tuesday, October 27th Overview
 - Introduce Peer Learning Activity for [Week 6](/schedule/week-6-peer-code-review)
 - Overview and Questions on [Project 2](/assignments/project-2)
-- Creative Data Visualization Introduction ([slides](https://docs.google.com/presentation/d/1enheGatGKgDhQdBSk4IGMymnwwKV2pcAF4l3zr1e3Us/edit?slide=id.g39817374d4f_0_139#slide=id.g39817374d4f_0_139))
+- Creative Data Visualization Introduction ([slides](https://docs.google.com/presentation/d/1E-SpUtYSvznp2LGaBBoRWGtA2doa2GsKXb1dEczU4jk/edit?slide=id.p#slide=id.p))
 - Basic data viz in p5 as example for peer learning [slides](https://docs.google.com/presentation/d/1ttbcyBZIC7R-BJvi6Qb4E8TsuwAQoWW1RL0Wk1K1P4o/edit?slide=id.h14dc10c780282ed4_0_0#slide=id.h14dc10c780282ed4_0_0)
 Code Examples:
 
@@ -25,7 +25,7 @@ Code Examples:
 - Reading and Reading Reflection
 
 - [Sculpin: Direct Manipulation of JSON by Horowitz et al.](https://drive.google.com/file/d/1ccIVyN95KfoiltWCN4wPpW2-jLxaR2Ws/view?usp=drive_link)
-- [Create a response in the reflection slide](https://docs.google.com/presentation/copy?title=4.%20Reading%20Reflection%3A%20Sculpin&copyCollaborators=false&copyDestination=1Ecbn3JKSe06-u8ZD7LfV0iwrLxTnIJOS&cmm_csn=false&cmm_css=true&cmm_sitc=%5B%22g24abd6a728b_0_0%22%5D&copyComments=false&includeResolvedCommentsOnCopy=false&copySourceId=1N0BU2jEgLJjmKVIWaG2vTGxU0roGx2jjNQD_-4JIIkU&redirect=true&usp=slides_web)
+- [Create a response in the reflection slide](https://docs.google.com/presentation/d/13FvIvajuUN1PpQ4XZ9n8Yp0rqa61wMcAEdYfW6TvElU/edit)
 - (Optional) Come to class on Thursday with a simple dataset in a CSV format.
 
 ## Thursday, October 29th Overview
