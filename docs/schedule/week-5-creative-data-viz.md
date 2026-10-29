@@ -30,7 +30,7 @@ Code Examples:
 
 ## Thursday, October 29th Overview
 
-- Reading Discussion ([slides](https://docs.google.com/presentation/copy?title=4.%20Reading%20Reflection%3A%20Sculpin&copyCollaborators=false&copyDestination=1Ecbn3JKSe06-u8ZD7LfV0iwrLxTnIJOS&cmm_csn=false&cmm_css=true&cmm_sitc=%5B%22g24abd6a728b_0_0%22%5D&copyComments=false&includeResolvedCommentsOnCopy=false&copySourceId=1N0BU2jEgLJjmKVIWaG2vTGxU0roGx2jjNQD_-4JIIkU&redirect=true&usp=slides_web)
+- Reading Discussion ([slides](https://docs.google.com/presentation/d/13FvIvajuUN1PpQ4XZ9n8Yp0rqa61wMcAEdYfW6TvElU/edit))
 - Basic data processing in Python
 - D3- brief overview (if time) using [Observable](https://observablehq.com/@d3/gallery)
 
@@ -43,7 +43,9 @@ Beautiful Soup: [https://beautiful-soup-4.readthedocs.io/en/latest/](https://bea
 Resources for data collection: NOTE- be very cautious with using unverified data capturing applications and uploading any personally sensitive data to an online tool, including LLM-based tools.
 
 Accessing data from any Google-related account: [google takeout](https://takeout.google.com/) (can take a long time depending on data source)
-Weather Data via NOAA- [https://www.ncei.noaa.gov/cdo-web/](https://www.ncei.noaa.gov/cdo-web/)Accessing Instagram Data: [https://accountscenter.instagram.com/info_and_permissions/](https://accountscenter.instagram.com/info_and_permissions/)Accessing Apple Health Data: [https://support.apple.com/guide/iphone/share-your-health-data-iph5ede58c3d/ios](https://support.apple.com/guide/iphone/share-your-health-data-iph5ede58c3d/ios) (see final point on xml export)
+Weather Data via NOAA- [https://www.ncei.noaa.gov/cdo-web/](https://www.ncei.noaa.gov/cdo-web/)
+Accessing Instagram Data: [https://accountscenter.instagram.com/info_and_permissions/](https://accountscenter.instagram.com/info_and_permissions/)
+Accessing Apple Health Data: [https://support.apple.com/guide/iphone/share-your-health-data-iph5ede58c3d/ios](https://support.apple.com/guide/iphone/share-your-health-data-iph5ede58c3d/ios) (see final point on xml export)
 Accessing WhatsApp Data: [https://privacyinternational.org/guide-step/4766/guide-getting-your-data-whatsapp](https://privacyinternational.org/guide-step/4766/guide-getting-your-data-whatsapp)
 
 ### To Do before Tuesday's Class:
