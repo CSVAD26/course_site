@@ -5,7 +5,7 @@ title: "Week 8: Abstraction"
 # Week 8: Abstraction
 
 ## Tuesday, November 17th Overview
-
+- Kitae Peer review: | KiTae | [`classify()`](https://github.com/CSVAD26/KiTae/blob/main/assignments/Project1/sketch.js#L353) | Gesture recognition from path geometry (straightness and total turning angle) |
 - Review of Sensing Assignment
 - Questions on [Project 2](/assignments/project-2) (Due Wednesday)
 - Computational Abstractions for Creative Expression

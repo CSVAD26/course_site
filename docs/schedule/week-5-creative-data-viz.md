@@ -43,9 +43,13 @@ Beautiful Soup: [https://beautiful-soup-4.readthedocs.io/en/latest/](https://bea
 Resources for data collection: NOTE- be very cautious with using unverified data capturing applications and uploading any personally sensitive data to an online tool, including LLM-based tools.
 
 Accessing data from any Google-related account: [google takeout](https://takeout.google.com/) (can take a long time depending on data source)
+
 Weather Data via NOAA- [https://www.ncei.noaa.gov/cdo-web/](https://www.ncei.noaa.gov/cdo-web/)
+
 Accessing Instagram Data: [https://accountscenter.instagram.com/info_and_permissions/](https://accountscenter.instagram.com/info_and_permissions/)
+
 Accessing Apple Health Data: [https://support.apple.com/guide/iphone/share-your-health-data-iph5ede58c3d/ios](https://support.apple.com/guide/iphone/share-your-health-data-iph5ede58c3d/ios) (see final point on xml export)
+
 Accessing WhatsApp Data: [https://privacyinternational.org/guide-step/4766/guide-getting-your-data-whatsapp](https://privacyinternational.org/guide-step/4766/guide-getting-your-data-whatsapp)
 
 ### To Do before Tuesday's Class:
