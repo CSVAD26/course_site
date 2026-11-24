@@ -1,53 +1,85 @@
 ---
-title: "Week 7: Abstraction"
+title: "Week 7: Generativity Continued/ Final Project Proposals"
 ---
 
 # Week 7: Abstraction
 
 ## Tuesday, November 17th Overview
-- Kitae Peer review: | KiTae | [`classify()`](https://github.com/CSVAD26/KiTae/blob/main/assignments/Project1/sketch.js#L353) | Gesture recognition from path geometry (straightness and total turning angle) |
-- Review of Sensing Assignment
-- Questions on [Project 2](/assignments/project-2) (Due Wednesday)
-- Computational Abstractions for Creative Expression
 
-- [lecture slides](https://docs.google.com/presentation/d/1m0bmqf__vZJlWSmItj9VArfgyP5vfG855KqVPCwklPY/edit?slide=id.p#slide=id.p)
+## Procedural Generativity
 
-### Creating libraries for [p5.js](http://p5.js)
+- Gaussian Distributions to Drive Geometric Placement
+- Perlin Noise
+- Creating complex generative designs with simple noise patterns using particle systems
 
-Example: [Dynamic Brushes converted to a P5.js library](https://github.com/CSVAD26/code_samples/tree/main/abstraction/DrawingManagerP5)
+Code Examples:
 
-Option 1- create an additional class and instantiate it. Example:[p5Dynamic Brushes](https://github.com/CSVAD26/code_samples/blob/main/abstraction/DrawingManagerP5/drawingmanager.js)
+- [All p5 examples on GitHub](https://github.com/CSVAD26/code_samples/tree/main/generativity/procedural_generativity_p5)
+- [Original Processing Examples](https://github.com/CSVAD26/code_samples/tree/main/generativity/procedural_generativity_processing)
 
-[Example Programs using Dynamic Brushes library](https://github.com/CSVAD26/code_samples/tree/main/abstraction/DrawingManagerP5/examples)
+### Additional Generative Examples
 
-Option 2- [create an addon](https://github.com/processing/p5.js/blob/main/contributor_docs/creating_libraries.md). Example [p5DynamicBrushes Addon](https://github.com/CSVAD26/code_samples/blob/main/abstraction/DrawingManagerP5/drawingmanager-addon.js)
+- [Bohnacker's Generative Design - Randomness and Noise](http://www.generative-gestaltung.de/2/)
 
-[Example Programs using Addon Library](https://github.com/CSVAD26/code_samples/tree/main/abstraction/DrawingManagerP5/examples-addon)
+### AI-based Generativity
 
-Benefits of Addon approach: [Creating an official contribution to the p5.js contributed libraries](https://p5js.org/libraries/)
+**Disclaimer:** ALL LLM tools have been trained on [large amounts of image data](https://laion.ai/blog/laion-5b/) from the web, [much of which is subject to active dispute](https://interaktiv.br.de/ki-trainingsdaten/en/index.html) over [intellectual property](https://www.theverge.com/2023/1/17/23558516/ai-art-copyright-stable-diffusion-getty-images-lawsuit). For the purposes of this class, you have the opportunity to experiment with different models to critically investigate the affordances and limitations of LLM text-to-image generation. Be aware that artists and other creators have [actively solicited that their work be removed from many training datasets](https://decrypt.co/150575/greg-rutkowski-removed-from-stable-diffusion-but-brought-back-by-ai-artists) and/or [sued the companies responsible for training the models for copyright violation](https://www.theguardian.com/books/2025/apr/04/us-authors-copyright-lawsuits-against-openai-and-microsoft-combined-in-new-york-with-newspaper-actions). You may choose to refrain from using any LLM tools if you wish. With that being said, here are some resources:
 
-If of interest---
+#### Using a generative model to create bitmap images from a text prompt
 
-### Creating libraries for Processing:
+Model: [pollinations.ai](https://pollinations.ai): an open-source gen AI startup based in Berlin, providing the easiest-to-use, free text and image generation API available. No signups or API keys required.
 
-- Download and install the [Eclipse Java IDE](https://www.eclipse.org/downloads/). It should run on Mac, Windows and Linux OSes.
-- Download a zipped version of the Processing library template: [here](https://github.com/processing/processing-library-template/releases).
-- Follow the instructions for setting up and compiling the template (starting at option B) [here](https://github.com/processing/processing-library-template).
-- Look at the example library provided on the course GitHub for reference [here](https://github.com/CSVADW21/code-example/tree/main/week7).
+- Benefit: FREE!
+- Tradeoffs: smaller training dataset, less accurate image results.
 
-Example library: Processing implementation of Dynamic Brushes- [Drawing Manager](https://github.com/CSVADFall23/codeexamples/blob/main/week5/DrawingManager.zip)
+Code Examples:
 
-[Nodes.io- Framework for developing dataflow apps](https://nodes.io/docs/api-reference/)
+- [Python script for prompting pollinations to generate an image](https://github.com/CSVAD26/code_samples/blob/main/generativity/ai_generativity/p5_image_generation/prompt_image_poll.py)
+- [p5 + WebSockets example to incorporate image generation from a text prompt in a sketch](https://github.com/CSVAD26/code_samples/tree/main/generativity/ai_generativity/p5_image_generation)
 
-## Assignment
+#### Using a generative model to create code from a text prompt
 
-### Reading
+##### Option 1: AI Commons API
 
-[Litt et al. Malleable Software: Restoring User Agency in a World of Locked-Down Apps.](https://www.inkandswitch.com/essay/malleable-software/#apps-are-avocado-slicers)
+The [UCSB AI Commons](https://aicommons.ucsb.edu/home) API gives access to a list of hosted models (e.g. Amazon Nova and Claude models). The examples use a small local Node.js server (`node server.js`) that adds your API key to each request, so the key never reaches the browser. You need an API key and base URL in a local `.env.local` file (never commit this file).
 
-Complete a reading reflection in the [slide deck](https://docs.google.com/presentation/d/1Y3_2utfElyzvKqXDQlh00mFXUMkLTDtj1CPxV9YnGP0/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0)
+Code Examples:
+
+- [p5 + AI Commons: choose a model and chat with it](https://github.com/CSVAD26/code_samples/tree/main/generativity/ai_generativity/ai_commons_example)
+- [p5 + AI Commons: prompt a model for a JSON scene and draw it with p5](https://github.com/CSVAD26/code_samples/tree/main/generativity/ai_generativity/ai_commons_code_generation). Uses code verification for security purposes. DO NOT execute arbitrary code generated by a model!
+
+##### Option 2: Gemini
+
+Model: Gemini 2.5 Flash (and variations): [One of Google's current models](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-flash).
+
+- Benefit: Free to use for returning text with an unpaid license.
+- Tradeoffs: Without paying for tokens you have limited access to models, e.g. no image generation, and later more powerful models are unavailable.
+
+Code Examples:
+
+- [p5 + WebSockets example to use Gemini prompting to create drawing commands for p5](https://github.com/CSVAD26/code_samples/tree/main/generativity/ai_generativity/p5_code_generation) (inspired by Siddarth). Uses code verification for security purposes. DO NOT execute arbitrary code generated by Gemini!
+
+The Gemini example requires signing up for a (free) Gemini account to access an API key. Instructions are in the [readme](https://github.com/CSVAD26/code_samples/tree/main/generativity#gemini-api-python-setup).
+
+
+### To Do before Thursday's Class:
+
+#### Reading
+- Reading and Reading Reflection
+  - [Litt et al. Malleable Software: Restoring User Agency in a World of Locked-Down Apps](https://www.inkandswitch.com/essay/malleable-software/#apps-are-avocado-slicers)
+  - [Complete a reading reflection in the slide deck](https://docs.google.com/presentation/d/1Y3_2utfElyzvKqXDQlh00mFXUMkLTDtj1CPxV9YnGP0/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0)
+
+#### Final Project Proposal
+Create the proposal for your [final project](/docs/assignments/final-project) by adding a slide to the proposal. Slide deck here: [slides](https://docs.google.com/presentation/d/1mrVe2PmQ0X3aP5baXC41zzsMqm177bAt5dj7ZKS_D4k/edit?slide=id.p#slide=id.p)
+Be prepared to present your proposal in class on Thursday.
+
 
 ## Thursday, November 19th, Overview
 
 - Reading Discussion for Malleable Software ([slides](https://docs.google.com/presentation/d/1Y3_2utfElyzvKqXDQlh00mFXUMkLTDtj1CPxV9YnGP0/edit?slide=id.g24abd6a728b_0_0#slide=id.g24abd6a728b_0_0))
-- [Project 2 Review](/assignments/project-2)
+
+- Review of  Final Project Proposals ([slides](https://docs.google.com/presentation/d/1mrVe2PmQ0X3aP5baXC41zzsMqm177bAt5dj7ZKS_D4k/edit?slide=id.p#slide=id.p))
+
+- 5 minutes timed presentation.
+
+

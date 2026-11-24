@@ -3,7 +3,7 @@ title: "Final Project"
 ---
 
 # Final Project
-## In class critique, Tuesday December 1st, 2026
+## In class critique, Tuesday December 1st and Thursday December 3rd, 2026
 ## All materials submitted online Friday December 11th, 2026
 
 ## Project Options
@@ -31,17 +31,17 @@ Ari Gilmore's [Waveform library](https://github.com/CSVAD/ari/blob/master/finalP
 
 ## Proposal and Deadlines
 
-Write a short proposal for your final project based on one of the options, due November 24th
+Write a short proposal for your final project based on one of the options, due November 19th
 
 You may propose one idea, or several different possibilities. Projects may be collaborative. If you plan to work with other members of the class, describe how you plan to organize the work across the members of the team members.
 
-Upload your project description to Github before under a new directory entitled "FinalProject". See Sihwa Park's proposal from last year's class as an example: [https://github.com/CSVAD/sihwa/tree/master/finalProject](https://github.com/CSVAD/sihwa/tree/master/finalProject)
+Upload your proposal as a slide to the slide deck here: [slides](https://docs.google.com/presentation/d/1mrVe2PmQ0X3aP5baXC41zzsMqm177bAt5dj7ZKS_D4k/edit?slide=id.p#slide=id.p)
 
-Proposals will be presented in class on November 24th  (see schedule detail). Proposals should be edited based on peer and instructor feedback.
+Proposals will be presented in class on November 19th. You will have 7 minutes to present your proposal to the class followed by feedback from the group.
 
-Final project critiques will take place on December 9th and 10th
+Final project critiques will take place in class on December 1st and 3rd. See the [presentation schedule](/schedule/week-10-final-project-presentations#presentation-schedule).
 
-All final project materials are due on December 12th.
+All final project materials are due on Friday, December 11th.
 
 ## Final Submission Materials
 
@@ -49,6 +49,7 @@ Materials include:
 
 - Full project source code uploaded to Github
 - Any presentation materials used for in class presentation uploaded to google drive
+- A video demonstration of your interactive system (approx. 2–5 minutes). Screen-record yourself (or a user) using the system so viewers can see how the interactions work and what they produce. For a generative series, show the algorithm running and how its parameters shape the output; for a library, show your example programs running. Upload to Google Drive (or YouTube/Vimeo) and link it from your project's README on GitHub. Narration or captions are encouraged.
 - Approx. 1000 word written project description and reflection which includes a description of the original project goal, the final result, challenges and limitations of your piece, and possible next steps/ future work, uploaded to google drive as a google doc or PDF
 - Approx. 250-500 word course self assessment. In your assessment, describe how you felt you performed in the class, what you did well and possible areas for growth. Touch on the specific components of the course (weekly assignments, reading reflections, participation, final project). Submit via email to [jmjacobs@ucsb.edu](mailto:jmjacobs@ucsb.edu)
 - Complete the course evaluation if you have not already.

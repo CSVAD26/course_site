@@ -23,7 +23,7 @@ title: "Schedule"
 | | Thursday, November 12 | Generative art; procedural methods; final project introduction | — | — |
 | [Week 8: Generativity Cont.](./schedule/week-8-abstraction) | Tuesday, November 17 | Procedural and diffusion-based generativity; generative models | [Malleable Software: Restoring User Agency in a World of Locked-Down Apps](https://www.inkandswitch.com/essay/malleable-software/#apps-are-avocado-slicers) | — |
 | | Thursday, November 19 | Final project proposal presentations and peer feedback | — | Peer feedback due before the final critique |
-| [Week 9: Abstraction](./schedule/week-9-final-project-proposals) | Tuesday, November 24 | Computational abstractions; p5.js and Processing libraries | [Slowness, Politics, Joy](https://drive.google.com/file/d/1g95Id7V6SDuyDC6fCQSef8dOXYJHei61/view?usp=sharing) | Final project proposal due before class |
+| [Week 9: Abstraction](./schedule/week-9-final-project-proposals) | Tuesday, November 24 | Malleable Software reading discussion; procedural generativity wrap-up; computational abstractions (p5.js and Processing libraries); final project reminders | [Slowness, Politics, Joy](https://drive.google.com/file/d/1g95Id7V6SDuyDC6fCQSef8dOXYJHei61/view?usp=sharing) (discussed Dec 1) | Final project proposal due before class |
 |  | Thursday, November 26 | Thanksgiving holiday | — | No class |
-| [Week 10: Final Project Presentations](./schedule/week-10-final-project-presentations) | Tuesday, December 1 | Final project presentations | — | Final project presentation |
+| [Week 10: Final Project Presentations](./schedule/week-10-final-project-presentations) | Tuesday, December 1 | Slowness, Politics, Joy reading discussion; final project presentations | — | Final project presentation |
 |  | Thursday, December 3 | Final project presentations | — | Final project presentation |
